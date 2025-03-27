@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundFilter", "SoundFilter\SoundFilter.csproj", "{A661F9CE-72B3-4053-87AC-44D8DCB9CFC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundFilter", "SoundFilter.csproj", "{A661F9CE-72B3-4053-87AC-44D8DCB9CFC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
